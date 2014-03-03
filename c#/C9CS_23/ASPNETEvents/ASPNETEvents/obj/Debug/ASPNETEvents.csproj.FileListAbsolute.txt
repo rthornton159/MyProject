@@ -1,0 +1,5 @@
+c:\users\robert tabor\documents\visual studio 2010\Projects\ASPNETEvents\ASPNETEvents\bin\ASPNETEvents.dll
+c:\users\robert tabor\documents\visual studio 2010\Projects\ASPNETEvents\ASPNETEvents\bin\ASPNETEvents.pdb
+c:\users\robert tabor\documents\visual studio 2010\Projects\ASPNETEvents\ASPNETEvents\obj\Debug\ResolveAssemblyReference.cache
+c:\users\robert tabor\documents\visual studio 2010\Projects\ASPNETEvents\ASPNETEvents\obj\Debug\ASPNETEvents.dll
+c:\users\robert tabor\documents\visual studio 2010\Projects\ASPNETEvents\ASPNETEvents\obj\Debug\ASPNETEvents.pdb

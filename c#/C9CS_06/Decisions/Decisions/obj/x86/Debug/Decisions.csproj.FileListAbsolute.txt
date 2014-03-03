@@ -1,0 +1,7 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Decisions\bin\Debug\Decisions.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Decisions\bin\Debug\Decisions.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Decisions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Decisions\obj\x86\Debug\Decisions.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Decisions\obj\x86\Debug\Decisions.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Decisions\Decisions\obj\x86\Debug\Decisions.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Decisions\Decisions\obj\x86\Debug\Decisions.pdb

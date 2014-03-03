@@ -1,0 +1,5 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\HelperMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\HelperMethods\obj\x86\Debug\HelperMethods.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\HelperMethods\obj\x86\Debug\HelperMethods.pdb

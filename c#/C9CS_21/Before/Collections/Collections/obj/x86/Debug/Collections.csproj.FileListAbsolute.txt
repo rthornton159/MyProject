@@ -1,0 +1,7 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Collections\bin\Debug\Collections.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Collections\bin\Debug\Collections.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Collections\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Collections\obj\x86\Debug\Collections.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Collections\obj\x86\Debug\Collections.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Collections\Collections\obj\x86\Debug\Collections.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Collections\Collections\obj\x86\Debug\Collections.pdb

@@ -1,0 +1,15 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Enumerations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Enumerations\obj\x86\Debug\Enumerations.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Enumerations\obj\x86\Debug\Enumerations.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Enumerations\Enumerations\obj\x86\Debug\Enumerations.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Enumerations\Enumerations\obj\x86\Debug\Enumerations.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Enumerations\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Enumerations\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Enumerations\Enumerations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RThornton\Documents\c#\C9CS_19\Enumerations\Enumerations\obj\x86\Debug\Enumerations.exe
+C:\Users\RThornton\Documents\c#\C9CS_19\Enumerations\Enumerations\obj\x86\Debug\Enumerations.pdb
+C:\Users\RThornton\Documents\c#\C9CS_19\Enumerations\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\RThornton\Documents\c#\C9CS_19\Enumerations\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\RThornton\Documents\c#\C9CS_19\Enumerations\Enumerations\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Release\Values.txt
+C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Release\ReadTextFileWhile.exe
+C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Release\ReadTextFileWhile.pdb
+C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\x86\Release\ReadTextFileWhile.exe
+C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\x86\Release\ReadTextFileWhile.pdb

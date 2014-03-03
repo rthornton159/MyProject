@@ -1,0 +1,5 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\SimpleClasses\bin\Debug\SimpleClasses.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\SimpleClasses\bin\Debug\SimpleClasses.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\SimpleClasses\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\SimpleClasses\obj\x86\Debug\SimpleClasses.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\SimpleClasses\obj\x86\Debug\SimpleClasses.pdb

@@ -1,0 +1,10 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\DatesAndTimes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\DatesAndTimes\obj\x86\Debug\DatesAndTimes.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\DatesAndTimes\obj\x86\Debug\DatesAndTimes.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\DatesAndTimes\DatesAndTimes\obj\x86\Debug\DatesAndTimes.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\DatesAndTimes\DatesAndTimes\obj\x86\Debug\DatesAndTimes.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\DatesAndTimes\DatesAndTimes\obj\x86\Debug\ResolveAssemblyReference.cache

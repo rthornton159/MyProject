@@ -1,0 +1,5 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UnderstandingArrays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UnderstandingArrays\obj\x86\Debug\UnderstandingArrays.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UnderstandingArrays\obj\x86\Debug\UnderstandingArrays.pdb

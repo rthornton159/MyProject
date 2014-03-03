@@ -1,0 +1,10 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Strings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Strings\bin\Debug\Strings.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Strings\bin\Debug\Strings.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Strings\obj\x86\Debug\Strings.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\Strings\obj\x86\Debug\Strings.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Strings\Strings\obj\x86\Debug\Strings.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Strings\Strings\obj\x86\Debug\Strings.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Strings\Strings\obj\x86\Debug\ResolveAssemblyReference.cache

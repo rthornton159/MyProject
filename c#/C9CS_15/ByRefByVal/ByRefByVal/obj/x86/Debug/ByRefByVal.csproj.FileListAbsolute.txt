@@ -1,0 +1,10 @@
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ByRefByVal\ByRefByVal\bin\Debug\ByRefByVal.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ByRefByVal\ByRefByVal\bin\Debug\ByRefByVal.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ByRefByVal\ByRefByVal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ByRefByVal\ByRefByVal\obj\x86\Debug\ByRefByVal.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\ByRefByVal\ByRefByVal\obj\x86\Debug\ByRefByVal.pdb
+C:\Users\RThornton\Documents\c#\C9CS_15\ByRefByVal\ByRefByVal\obj\x86\Debug\ByRefByVal.exe
+C:\Users\RThornton\Documents\c#\C9CS_15\ByRefByVal\ByRefByVal\obj\x86\Debug\ByRefByVal.pdb
+C:\Users\RThornton\Documents\c#\C9CS_15\ByRefByVal\ByRefByVal\bin\Debug\ByRefByVal.exe
+C:\Users\RThornton\Documents\c#\C9CS_15\ByRefByVal\ByRefByVal\bin\Debug\ByRefByVal.pdb
+C:\Users\RThornton\Documents\c#\C9CS_15\ByRefByVal\ByRefByVal\obj\x86\Debug\ResolveAssemblyReference.cache

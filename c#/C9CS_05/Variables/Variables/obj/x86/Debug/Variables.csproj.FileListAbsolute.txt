@@ -1,0 +1,5 @@
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Variables\Variables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Variables\Variables\obj\x86\Debug\Variables.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Variables\Variables\obj\x86\Debug\Variables.pdb

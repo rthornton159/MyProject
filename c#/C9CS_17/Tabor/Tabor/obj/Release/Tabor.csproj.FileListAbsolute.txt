@@ -1,0 +1,5 @@
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Tabor\Tabor\bin\Release\Tabor.dll
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Tabor\Tabor\bin\Release\Tabor.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Tabor\Tabor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Tabor\Tabor\obj\Release\Tabor.dll
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\Tabor\Tabor\obj\Release\Tabor.pdb

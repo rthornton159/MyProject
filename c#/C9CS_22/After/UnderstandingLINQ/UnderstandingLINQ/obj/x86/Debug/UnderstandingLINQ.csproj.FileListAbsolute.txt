@@ -1,0 +1,10 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UnderstandingLINQ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UnderstandingLINQ\obj\x86\Debug\UnderstandingLINQ.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\UnderstandingLINQ\obj\x86\Debug\UnderstandingLINQ.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\UnderstandingLINQ\UnderstandingLINQ\obj\x86\Debug\UnderstandingLINQ.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\UnderstandingLINQ\UnderstandingLINQ\obj\x86\Debug\UnderstandingLINQ.pdb
+C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe
+C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.pdb
+C:\Users\Robert Tabor\Documents\Visual Studio 2010\Projects\UnderstandingLINQ\UnderstandingLINQ\obj\x86\Debug\ResolveAssemblyReference.cache

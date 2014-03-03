@@ -1,0 +1,15 @@
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\bin\Debug\WpfEvents.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\bin\Debug\WpfEvents.pdb
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\MainWindow.baml
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\App.g.cs
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\WpfEvents_MarkupCompile.cache
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\WpfEvents.g.resources
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\WpfEvents.Properties.Resources.resources
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\WpfEvents.exe
+C:\Users\Robert Tabor\AppData\Local\Temporary Projects\WpfEvents\obj\x86\Debug\WpfEvents.pdb
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\WpfEvents\WpfEvents\obj\x86\Debug\WpfEvents.exe
+C:\Users\Robert Tabor\documents\visual studio 2010\Projects\WpfEvents\WpfEvents\obj\x86\Debug\WpfEvents.pdb
